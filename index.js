@@ -1,0 +1,1 @@
+const powerOf = (a,b) => a**b
